@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DjS2rsRK7BZlLDBUJ0+v1qn7YBTnoncI0+ART2p1py6rxDKC4V21nqB78B3cEQD4kw7XDEAl9QYfeVgIAM5Pfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\source\\repos\\AlgoritmoLineal_Simulacion\\AlgoritmoLineal_Simulacion\\AlgoritmoLineal_Simulacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
