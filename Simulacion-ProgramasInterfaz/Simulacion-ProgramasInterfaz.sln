@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulacion-ProgramasInterfaz", "Simulacion-ProgramasInterfaz.csproj", "{4C1EEE93-EBBB-439C-8F98-BE35BE369FD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoritmoLineal_Simulacion", "..\AlgoritmoLineal_Simulacion\AlgoritmoLineal_Simulacion\AlgoritmoLineal_Simulacion.csproj", "{09AABD11-FC91-4E7E-A57B-F378655A6E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1EEE93-EBBB-439C-8F98-BE35BE369FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1EEE93-EBBB-439C-8F98-BE35BE369FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1EEE93-EBBB-439C-8F98-BE35BE369FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1EEE93-EBBB-439C-8F98-BE35BE369FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09AABD11-FC91-4E7E-A57B-F378655A6E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AABD11-FC91-4E7E-A57B-F378655A6E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AABD11-FC91-4E7E-A57B-F378655A6E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AABD11-FC91-4E7E-A57B-F378655A6E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA0801DE-E004-4674-8798-2397F1BF5A6E}
+	EndGlobalSection
+EndGlobal

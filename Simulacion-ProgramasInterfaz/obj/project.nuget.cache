@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "58fOfdc8hY2ITWnVMnB46hV9yLD/9yUVIasfuE23um5Fmdwh3/lBEBHNeyHM6NG1zSjyFvCKtPr8YAqlSVn9kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\source\\repos\\Simulacion-ProgramasInterfaz\\Simulacion-ProgramasInterfaz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
